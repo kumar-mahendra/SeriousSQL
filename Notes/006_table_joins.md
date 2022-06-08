@@ -303,8 +303,6 @@ Difference between `UNION` and `UNION ALL` is that `UNION` runs `DISTINCT` on to
 
 writing commands is simple just use set operations between various queries you want to join. 
 
-**dvidie**
-
 
 
 
