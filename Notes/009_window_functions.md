@@ -89,4 +89,10 @@ INSERT INTO table_name
 RETURNING * -- optional if you want to see what rows are added 
 ```
 
+- Frame Clause in Window Functions
+
+![Frame Clause Window Fuction](../images/frame_clause.png)
+
+
+
 
